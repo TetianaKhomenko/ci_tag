@@ -12,7 +12,7 @@ on:
         tags:
           description: 'specify test tags'
           required: false
-          default: '@ui'
+          default: 'ui'
         grep:
           description: 'grep testomat param --ignore'
           required: false
